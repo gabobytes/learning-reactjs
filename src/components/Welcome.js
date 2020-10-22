@@ -6,7 +6,7 @@ function Welcome(props){
         <div className="container">
             <div className="Fitness-User-Info">
                     <h1>Hello {props.username}</h1>
-                <p>let's workout to get someone gains!</p>
+                <p>Let's workout to get someone gains!</p>
             </div>
         </div>
     )
